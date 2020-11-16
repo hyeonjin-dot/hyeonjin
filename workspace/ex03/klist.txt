@@ -1,0 +1,2 @@
+Name                 Cache name                                 Expires
+* hyejung@42SEOUL.KR   API:1D7428BF-7FAA-4C97-914E-2AECAC05E6AB   Nov 17 01:23:35 2020
